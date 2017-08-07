@@ -1,0 +1,29 @@
+{
+  "name": "alexa-flightinfo-skill",
+  "version": "1.0.0",
+  "description": "Alex skill that gets flight info",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BeardedYeti/alexa-flightinfo-skill.git"
+  },
+  "keywords": [
+    "Alexa-sdk",
+    "JavaScript",
+    "Node.js",
+    "AWS"
+  ],
+  "author": "Colin Smith",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/BeardedYeti/alexa-flightinfo-skill/issues"
+  },
+  "homepage": "https://github.com/BeardedYeti/alexa-flightinfo-skill#readme",
+  "dependencies": {
+    "alexa-app": "^4.0.1",
+    "lodash": "^4.17.4"
+  }
+}
